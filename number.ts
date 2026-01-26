@@ -7,4 +7,4 @@ console.log(total);
 
 var name1:string="megha";
 var converter:number=Number(name1);
-console.log(converter);
+console.log(num1+name1);

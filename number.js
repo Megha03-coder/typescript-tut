@@ -5,4 +5,4 @@ console.log(total);
 // conversion string to number
 var name1 = "megha";
 var converter = Number(name1);
-console.log(converter);
+console.log(num1 + name1);
